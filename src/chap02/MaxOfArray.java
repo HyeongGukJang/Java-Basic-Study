@@ -8,7 +8,7 @@ public class MaxOfArray {
 		for (int i = 0; i < a.length; i++) {
 			if (a[i] > max)
 				max = a[i];
-		}
+		} 
 		return max;
 	}
 
@@ -19,7 +19,7 @@ public class MaxOfArray {
 		int num = sc.nextInt();
 		
 		int[] height = new int[num];
-		
+		 
 		for(int i = 0; i<num; i++) {
 			System.out.println("height[" + i + "] : ");
 			height[i] = sc.nextInt();

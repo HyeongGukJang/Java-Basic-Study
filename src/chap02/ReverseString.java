@@ -9,9 +9,9 @@ public class ReverseString {
 		Stack<String> str = new Stack<>();
 		
 		StringTokenizer st = new StringTokenizer(a);
-		while(st.hasMoreTokens())
+		while(st.hasMoreTokens()) 
 			str.push((String) st.nextElement());
-		while(!str.empty())
+		while(!str.empty()) 
 			System.out.println(str.pop()+" ");
 	}
 }
