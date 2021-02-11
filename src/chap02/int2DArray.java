@@ -7,6 +7,7 @@ public class int2DArray {
 
 	public int2DArray() {
 		int3();
+		int2();
 	}
 
 	private void int3() {
@@ -32,7 +33,7 @@ public class int2DArray {
 		}
 	}
 
-	public void int2(String[] args) {
+	public void int2(){
 
 		int[][] x = new int[2][4]; // 2차원 배열
 
