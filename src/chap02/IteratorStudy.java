@@ -14,7 +14,7 @@ public class IteratorStudy {
 		Iterator<Integer> it = a.iterator();
 		while (it.hasNext()) {
 			int n = it.next();
-			System.out.println(n);
+			System.out.print(n+",");
 		}
 
 		int sum = 0;
