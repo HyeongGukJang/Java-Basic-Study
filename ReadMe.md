@@ -6,4 +6,7 @@
 #### chep.1
 study complete.
 #### chep.2 
+study complete. but maybe need to see...
+#### chep.3
 studing...
+
